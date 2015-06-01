@@ -12,8 +12,6 @@ word2vec is just one case of semantic word vectors. And we use wikpedia articles
 
 Another extendable point is that we can use other types of features to enable the whole pipeline. Please refer to my recent publication: Transductive Multi-view Zero-Shot Learning, accepted to TPAMI.
 
-Anyway, I believe this framework would be more effecient and accurate to solve zero-shot learning problems in general than the other methods.
-
 
 
 --Yanwei Fu, Feb 4th, 2015 
