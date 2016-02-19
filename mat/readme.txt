@@ -1,9 +1,7 @@
-download the mat file from my website:
-http://www.eecs.qmul.ac.uk/~yf300/embedding/index.html
+download the mat file from my dropbox::
 
+https://www.dropbox.com/s/r3flgjuc3lmg3ny/mat.tar?dl=0
 
-by
-
-wget http://www.eecs.qmul.ac.uk/~yf300/embedding/mat/mat.tar.gz
+https://www.dropbox.com/s/ammh1oj2lavetja/index.html?dl=0
 
 and uncompress in mat folder.
